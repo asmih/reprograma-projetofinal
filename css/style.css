@@ -277,6 +277,92 @@ color: rgb(83, 4, 83);
     background-color: #ce9ad3be;
 }
 
+.secao-mulheres{
+  text-align: right;
+    padding: 4rem 4rem;
+}
+
+.btn_roxo_mulheres {
+  padding: 10px 25px;
+  border-radius: 5px;
+  background-color: #9c41c0;
+  color: white;
+  font-size: 20px;
+
+}
+
+.btn_roxo_mulheres:hover {
+  transform: translateY(-1rem);
+  box-shadow: 0 10px 10px rgba(0,0,0,.2);
+  background-color: rgb(192, 156, 188);
+  text-align: center;
+  transition: all .5s;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.secao-sobremim p {
+  color: #70438a;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  padding: 1rem 0;
+}
+
+.secao-sobremim{
+  text-align: center;
+    padding: 4rem 4rem;
+}
+
+.secao-sobremim__contato{
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1.8rem 1.8rem 1.8rem;
+    background-color: #ce9ad3be;
+    text-align:center;
+}
+
+
+
+.btn_roxo_sobremim {
+  padding: 10px 25px;
+  border-radius: 5px;
+  background-color: #9c41c0;
+  color: white;
+  font-size: 20px;
+  align-self: center;
+
+}
+
+.btn_roxo_sobremim:hover {
+  transform: translateY(-1rem);
+  box-shadow: 0 10px 10px rgba(0,0,0,.2);
+  background-color: rgb(192, 156, 188);
+  text-align: center;
+  transition: all .5s;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.btn_roxo_contato {
+  padding: 10px 25px;
+  border-radius: 5px;
+  background-color: #9c41c0;
+  color: white;
+  font-size: 20px;
+
+}
+
+.btn_roxo_contato:hover {
+  transform: translateY(-1rem);
+  box-shadow: 0 10px 10px rgba(0,0,0,.2);
+  background-color: rgb(192, 156, 188);
+  text-align: center;
+  transition: all .5s;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
 
 /* --- FOOTER --- */
 .rodape {
